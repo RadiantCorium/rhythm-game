@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrowslol.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArrowDown0000" x="346" y="243" width="57" height="116"/>
+	<SubTexture name="ArrowDownLITGLOW0000" x="274" y="0" width="89" height="147"/>
+	<SubTexture name="ArrowLeft0000" x="0" y="216" width="116" height="58"/>
+	<SubTexture name="ArrowLeftLITGLOW0000" x="0" y="0" width="147" height="89"/>
+	<SubTexture name="ArrowRight0000" x="135" y="243" width="116" height="58"/>
+	<SubTexture name="ArrowRightLITGLOW0000" x="0" y="108" width="147" height="89"/>
+	<SubTexture name="ArrowUp0000" x="270" y="243" width="57" height="116"/>
+	<SubTexture name="ArrowUpLITGLOW0000" x="166" y="0" width="89" height="147"/>
+	<SubTexture name="BLUE0000" x="301" y="166" width="116" height="58"/>
+	<SubTexture name="GREEN0000" x="436" y="135" width="57" height="116"/>
+	<SubTexture name="RED0000" x="382" y="0" width="57" height="116"/>
+	<SubTexture name="YELLOW0000" x="166" y="166" width="116" height="58"/>
+</TextureAtlas>
